@@ -1,5 +1,5 @@
-# likelion_SemiProject3
-<br>## MOVID (Mask Object Visualize Identification Detection)
+# likelion_SemiProject3 <br>
+## MOVID (Mask Object Visualize Identification Detection)
 <br>: known face/unknown face를 구분하고 mask착용 유무를 판단
 <br><br> team 4 : 김수희, 김효진, 신종민, 주종민
 <br>![team4_1](https://user-images.githubusercontent.com/72117814/106421063-5e52e280-649f-11eb-912b-02388a6d3ac7.PNG)
